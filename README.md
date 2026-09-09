@@ -1,2 +1,2 @@
 # python-pr-labeler
-New Python Automation Project(Simple_
+New Python Automation Project(Simple)
