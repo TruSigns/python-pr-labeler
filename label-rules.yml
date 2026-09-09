@@ -1,0 +1,27 @@
+rules:
+  tests:
+    - "*.test.js"
+    - "*.test.ts"
+    - "*.spec.js"
+    - "*_test.py"
+    - "test_*.py"
+  docs:
+    - "*.md"
+    - "docs/**"
+  frontend:
+    - "frontend/**"
+    - "*.jsx"
+    - "*.tsx"
+    - "*.css"
+  backend:
+    - "backend/**"
+    - "server/**"
+  ci:
+    - ".github/**"
+    - "*.yml"
+    - "*.yaml"
+  dependencies:
+    - "package.json"
+    - "package-lock.json"
+    - "requirements.txt"
+    - "poetry.lock"

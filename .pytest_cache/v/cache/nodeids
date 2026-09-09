@@ -1,0 +1,7 @@
+[
+  "tests/test_labeler.py::test_multiple_labels_one_file_set",
+  "tests/test_labeler.py::test_nested_glob_matches",
+  "tests/test_labeler.py::test_no_files_matches_nothing",
+  "tests/test_labeler.py::test_single_match",
+  "tests/test_labeler.py::test_unmatched_file_produces_no_label"
+]
